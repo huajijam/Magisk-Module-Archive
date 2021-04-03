@@ -1,0 +1,6 @@
+id=20201006bootanimation
+name=骁龙845自检开机动画
+version=1
+versionCode=1
+author=huajijam
+description=SDM845 POST bootanimation
